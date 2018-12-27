@@ -1,0 +1,35 @@
+/* the background Image was extracted from the Game Stardew Valley - All rights reserved.
+ * I do not intend to share or own any money with this game, for educational purposes only
+ */
+
+
+.mainpane {
+ -fx-background-image: url("../../img/bg.png");
+ -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+.button {
+	-fx-background-color: 
+	e6a70c;
+	-fx-border: 0px;
+	-fx-border-radius: 0px;
+	-fx-padding: 7px;
+}
+.button:disabled {
+	-fx-background-color: 
+	ivory;
+	-fx-border: 0px;
+	-fx-border-radius: 0px;
+}
+.button:hover {
+	-fx-effect: dropshadow(gaussian, rgba(255,255,255,0.5), 0, 2px, 2px, 2px);
+	-fx-background-color: #e6a70c;
+	-fx-color: 
+	ivory;
+}
+.logo {
+	
+	-fx-text-fill: #e6a70c;
+	-fx-stroke: black;
+    -fx-stroke-width: 1;
+}
