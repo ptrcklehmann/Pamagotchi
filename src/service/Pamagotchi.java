@@ -17,6 +17,8 @@ import javafx.scene.image.Image;
  * 
  * image copyrights from the 1997's Tamagotchi for Game Boy, sprite sheet riped by xdonthave1xx
  * I do not intend to own any money with this project
+ * 
+ *
  */
 
 public class Pamagotchi implements IPamagotchi {
